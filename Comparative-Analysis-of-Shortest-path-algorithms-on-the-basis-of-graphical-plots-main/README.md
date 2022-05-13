@@ -4,4 +4,4 @@ We have made a project in which it compare Dijkstra’s, Bellman-Ford and Floyd-
 
 By this makes it easy to understand the shortest path and tells which algorithm should be used to solve the question more efficiently for a particular type of question.
 
-Minor 1 Project Siddhi Gupta Tushar Goyal Yogesh Bhavuk Baluja
+
